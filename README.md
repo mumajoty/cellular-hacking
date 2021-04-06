@@ -27,7 +27,7 @@ A curated list of cellular hacking related information
 * [CubicSDR](https://cubicsdr.com/)
 * [Linrad](http://www.sm5bsz.com/linuxdsp/linrad.htm)
 * [SDR#](https://airspy.com/download/)
-* [gqrx](https://gqrx.dk/) [[github]](https://github.com/csete/gqrx)
+* [gqrx](https://gqrx.dk/) ([source](https://github.com/csete/gqrx))
 * [sdrtrunk](https://github.com/DSheirer/sdrtrunk)
 
 ## Forum/Subreddit
