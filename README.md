@@ -20,7 +20,7 @@ A curated list of cellular hacking related information
 * [rtl-sdr](https://osmocom.org/projects/rtl-sdr/wiki)
 * [SDRplay](https://www.sdrplay.com/)
 
-## Software 
+## Software
 
 * [HDSDR](http://www.hdsdr.de/)
 * [sdr-radio](https://www.sdr-radio.com/download)
@@ -30,6 +30,11 @@ A curated list of cellular hacking related information
 * [gqrx](https://gqrx.dk/) ([source](https://github.com/csete/gqrx))
 * [sdrtrunk](https://github.com/DSheirer/sdrtrunk)
 
+## Repo
+
+* [RF-List](https://github.com/mgp25/RF-List)
+* [OpenLTE](https://github.com/mgp25/OpenLTE)
+  
 ## Forum/Subreddit
 
 * [hack5](https://forums.hak5.org/forum/81-sdr-software-defined-radio/)
